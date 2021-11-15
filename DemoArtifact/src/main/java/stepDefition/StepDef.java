@@ -114,5 +114,11 @@ public class StepDef extends CommonFunctionalities{
 		System.out.println("adding abc method....");
 	}
 
+	
+	public void sampleTC()
+	{
+		System.out.println("adding sampleTC method....");
+	}
+
 
 }
